@@ -1,0 +1,26 @@
+{
+  "name": "Zeus-JS",
+  "version": "1.5.0",
+  "description": "Node wrapper for the Zeus antispam API for telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \" no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeusNetworks/Zeus-JS"
+  },
+    "keywords": [
+    "Zeus",
+    "Antispam"
+  ],
+  "author": "ZeusNetworks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZeusNetworks/Zeus-JS/issues"
+  },
+  "homepage": "https://github.com/ZeusNetworks/Zeus-JS#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
